@@ -2,6 +2,7 @@ package com.mycompany.app;
 
 /**
  * Hello world!
+ This is a git practice
  */
 public class App
 {
